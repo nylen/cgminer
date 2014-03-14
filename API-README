@@ -1,4 +1,3 @@
-
 This README contains details about the cgminer RPC API
 
 It also includes some detailed information at the end,
@@ -497,6 +496,9 @@ miner.php - an example web page to access the API
  This includes buttons and inputs to attempt access to the privileged commands
  See the end of this API-README for details of how to tune the display
  and also to use the option to display a multi-rig summary
+
+If you are using Node.js, you can also use the miner-rpc package:
+https://www.npmjs.org/package/miner-rpc
 
 ----------
 
